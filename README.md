@@ -12,8 +12,8 @@ B-CHAT is a Bluetooth based application where two users can connect their mobile
 ## Technology
 
 - Platform: [Android Studio]
-- API: [Bluetooth API]
-- Language: [Java]
+- API: Bluetooth API
+- Language: Java
 
 ## Steps to run the app
 
